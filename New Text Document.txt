@@ -6,5 +6,8 @@ commit: Lưu lại trạng thái của index
 Chinh sua tu nhanh develop;
 
 
+—
+Release add
+
 — 
 dev
