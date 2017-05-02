@@ -4,3 +4,7 @@ pull: Lấy nội dung của remote repository
 commit: Lưu lại trạng thái của index
 
 Chinh sua tu nhanh develop;
+
+
+—
+Release add
