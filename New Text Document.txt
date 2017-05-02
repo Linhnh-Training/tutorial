@@ -10,3 +10,7 @@ Chinh sua tu nhanh develop;
 Release add
 — 
 dev
+
+1
+
+3
