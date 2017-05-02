@@ -8,8 +8,5 @@ Chinh sua tu nhanh develop;
 
 —
 Release add
-
 — 
 dev
-—
-Release add
